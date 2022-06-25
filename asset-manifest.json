@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tribute-page-react/static/css/main.c6bf3c4a.css",
+    "main.js": "/tribute-page-react/static/js/main.9fedb01f.js",
+    "static/media/one-piece-map.jpg": "/tribute-page-react/static/media/one-piece-map.a1010d9c149adac2759f.jpg",
+    "static/media/jinbe.png": "/tribute-page-react/static/media/jinbe.bc5ec8b4e8093f83ea57.png",
+    "static/media/one_piece_logo.png": "/tribute-page-react/static/media/one_piece_logo.73d6cce7f095038b7e75.png",
+    "static/media/brook.png": "/tribute-page-react/static/media/brook.78fdd4ec3abc0f7580e8.png",
+    "static/media/franky.png": "/tribute-page-react/static/media/franky.26d3a1bf18e45cd61ace.png",
+    "static/media/luffy.png": "/tribute-page-react/static/media/luffy.27d34d1bafadf52d5e86.png",
+    "static/media/usopp.png": "/tribute-page-react/static/media/usopp.ce2be495f8af81742b8e.png",
+    "static/media/robin.png": "/tribute-page-react/static/media/robin.c0f48b633e50eb295462.png",
+    "static/media/sanji.png": "/tribute-page-react/static/media/sanji.a1859538c7e3695353ef.png",
+    "static/media/zoro.png": "/tribute-page-react/static/media/zoro.6483cf8ba0047aefc369.png",
+    "static/media/oda_image.jpg": "/tribute-page-react/static/media/oda_image.207d26fd52ffe73a66dc.jpg",
+    "static/media/chopper.png": "/tribute-page-react/static/media/chopper.050c032902ed23d8ad0d.png",
+    "static/media/nami.png": "/tribute-page-react/static/media/nami.443ec8ad5733f6c79f44.png",
+    "index.html": "/tribute-page-react/index.html",
+    "main.c6bf3c4a.css.map": "/tribute-page-react/static/css/main.c6bf3c4a.css.map",
+    "main.9fedb01f.js.map": "/tribute-page-react/static/js/main.9fedb01f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6bf3c4a.css",
+    "static/js/main.9fedb01f.js"
+  ]
+}
