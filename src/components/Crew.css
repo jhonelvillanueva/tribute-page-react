@@ -1,0 +1,11 @@
+ul {
+	list-style-type: none;
+}
+
+.crew-item {
+	padding: 32px;
+}
+
+.crew-item-info > div {
+	padding: 10px;
+}
