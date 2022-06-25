@@ -44,6 +44,17 @@ const App = () => {
 				<h2>Meet the Straw Hats</h2>
 				<Crew />
 			</div>
+			<div className='wiki-link-container'>
+				<p className='wiki-link'>
+					For more information, you can find out more in his{' '}
+					<a
+						href='https://en.wikipedia.org/wiki/Eiichiro_Oda'
+						target='_blank'
+						rel='noopener noreferrer'>
+						Wikipedia Entry
+					</a>
+				</p>
+			</div>
 		</div>
 	);
 };

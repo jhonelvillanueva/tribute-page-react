@@ -67,7 +67,6 @@ figure > img {
 
 .famous-work,
 .crew-container {
-	margin: 32px;
 	padding-bottom: 32px;
 	text-align: center;
 	font-size: 1.5rem;
@@ -87,8 +86,26 @@ h2 {
 	margin: 0 32px;
 }
 
+.wiki-link-container {
+	margin: 0 auto;
+	padding-bottom: 64px;
+	text-align: center;
+	font-size: 24px;
+}
+
+.wiki-link > a {
+	text-decoration: none;
+	color: rgb(45, 45, 122);
+}
+
 @media screen and (max-width: 1200px) {
 	.author-description {
 		flex-direction: column;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	body {
+		margin: 32px 24px;
 	}
 }
